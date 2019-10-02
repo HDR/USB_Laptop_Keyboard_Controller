@@ -8,7 +8,7 @@ Based on [thedalles77](https://github.com/thedalles77/)'s version just smaller
 
 | Reference        | Part Number           | Description  |
 | ------------- |:-------------:| -----:|
-| J1 | 0543630489 | 40 Pin FPC keyboard connector |
+| J1 | 0543630489 | 40 Pin FPC keyboard connector (Or pull off a scrap board) |
 | U1 | Teensy LC |  |                               
 | U2 | TLV810MDBZR | 4.38 Volt Reset Generator SOT23 |
 | Q1 | BSS138 | NFET SOT23 |
